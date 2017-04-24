@@ -1,0 +1,19 @@
+{
+  "name": "hello-all",
+  "version": "1.0.0",
+  "description": "Say hello all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nime0708/hello-all.git"
+  },
+  "author": "Ni Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nime0708/hello-all/issues"
+  },
+  "homepage": "https://github.com/nime0708/hello-all#readme"
+}
